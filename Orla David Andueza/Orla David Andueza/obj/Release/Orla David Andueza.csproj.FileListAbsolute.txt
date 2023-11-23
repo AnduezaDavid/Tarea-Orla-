@@ -1,0 +1,17 @@
+C:\Users\meloc\source\repos\Orla David Andueza\Orla David Andueza\bin\Release\Orla David Andueza.exe.config
+C:\Users\meloc\source\repos\Orla David Andueza\Orla David Andueza\bin\Release\Orla David Andueza.exe
+C:\Users\meloc\source\repos\Orla David Andueza\Orla David Andueza\bin\Release\Orla David Andueza.pdb
+C:\Users\meloc\source\repos\Orla David Andueza\Orla David Andueza\obj\Release\Orla David Andueza.csproj.AssemblyReference.cache
+C:\Users\meloc\source\repos\Orla David Andueza\Orla David Andueza\obj\Release\MainWindow.g.cs
+C:\Users\meloc\source\repos\Orla David Andueza\Orla David Andueza\obj\Release\Window1.g.cs
+C:\Users\meloc\source\repos\Orla David Andueza\Orla David Andueza\obj\Release\App.g.cs
+C:\Users\meloc\source\repos\Orla David Andueza\Orla David Andueza\obj\Release\Orla David Andueza_MarkupCompile.cache
+C:\Users\meloc\source\repos\Orla David Andueza\Orla David Andueza\obj\Release\Orla David Andueza_MarkupCompile.lref
+C:\Users\meloc\source\repos\Orla David Andueza\Orla David Andueza\obj\Release\MainWindow.baml
+C:\Users\meloc\source\repos\Orla David Andueza\Orla David Andueza\obj\Release\Window1.baml
+C:\Users\meloc\source\repos\Orla David Andueza\Orla David Andueza\obj\Release\Orla David Andueza.g.resources
+C:\Users\meloc\source\repos\Orla David Andueza\Orla David Andueza\obj\Release\Orla_David_Andueza.Properties.Resources.resources
+C:\Users\meloc\source\repos\Orla David Andueza\Orla David Andueza\obj\Release\Orla David Andueza.csproj.GenerateResource.cache
+C:\Users\meloc\source\repos\Orla David Andueza\Orla David Andueza\obj\Release\Orla David Andueza.csproj.CoreCompileInputs.cache
+C:\Users\meloc\source\repos\Orla David Andueza\Orla David Andueza\obj\Release\Orla David Andueza.exe
+C:\Users\meloc\source\repos\Orla David Andueza\Orla David Andueza\obj\Release\Orla David Andueza.pdb
